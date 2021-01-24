@@ -99,8 +99,8 @@ A subset of fastMRI which contains real-world. We took the annotations from [fas
 
 # Running the code
 
-You may simply clone this repository and run each notebook to reproduce the results. 
-**Note.** that you need to download the necessary datasets according to the experiment you intend to run.
+You may simply clone this repository and run each notebook to reproduce the results. <br>
+**Note.** You need to download the necessary datasets according to the experiment you intend to run.
 
 
 # References
