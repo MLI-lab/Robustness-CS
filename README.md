@@ -1,6 +1,6 @@
 # Robustness_of_image_reconstruction_methods
 
-<p align="center"><img src="./figures/robustness.jpeg" width="650" height="650"></p>
+<p align="center"><img src="./figures/robustness.jpeg" width="650" height="450"></p>
 
 
 <br>
