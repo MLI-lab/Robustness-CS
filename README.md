@@ -94,7 +94,7 @@ The [Stanford](https://rice.box.com/shared/static/4xk6nef26vk8uyes4wymtob5pbmcfd
 
 The [adversarially-filtered](https://rice.box.com/shared/static/9h55fkst76e0k5f8te5xayy5jbysy18y) dataset which we created using the invertible Recurrent Inference Machine ([i-RIM](https://arxiv.org/pdf/1706.04008.pdf)).
 
-A subset of fastMRI which contains real-world. We took the annotations from [fastMRI_BB_abnormalities_annotation](https://github.com/fcaliva/fastMRI_BB_abnormalities_annotation) and created a set of lateral and medical meniscus samples which is available [here](https://rice.box.com/shared/static/gkiwjo0z3attt2qhon97pgi0dgclr66t).
+A subset of fastMRI which contains real-world. We took the annotations from [fastMRI_BB_abnormalities_annotation](https://github.com/fcaliva/fastMRI_BB_abnormalities_annotation) and created a set of lateral and medical meniscus samples which is available [here](https://rice.box.com/shared/static/gkiwjo0z3attt2qhon97pgi0dgclr66t) (see small_features_real_worl_pathology.ipynb to find out how to use this data).
 
 
 # Running the code
