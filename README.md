@@ -3,8 +3,6 @@
 <p align="center"><img src="./figures/robustness.jpeg" width="650" height="450"></p>
 
 
-<br>
-
 This repository provides code for reproducing the results in the paper:
 
 **''Measuring the robustness of deep-learning-based compressive sensing,''** by Mohammad Zalbagi Darestani, Akshay Chaudhari, and Reinhard Heckel
