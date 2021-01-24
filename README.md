@@ -64,29 +64,17 @@ To reproduce the results by running each of the jupyter notebooks, the following
 
 
         apt-get update
-
         apt-get install python3.6     # --> or any other system-specific command for installing python3 on your system.
-
 		pip install jupyter
-
 		pip install numpy
-
 		pip install matplotlib
-
 		pip install sigpy
-
 		pip install h5py
-
 		pip install scikit-image
-
 		pip install runstats
-
 		pip install pytorch_msssim
-
 		pip install pytorch-lightning
-
 		pip install test-tube
-
 		pip install Pillow
 
 If pip does not come with the version of python you installed, install pip manually from [here](https://ehmatthes.github.io/pcc/chapter_12/installing_pip.html). Also, install pytorch from [here](https://pytorch.org/) according to your system specifications. 
