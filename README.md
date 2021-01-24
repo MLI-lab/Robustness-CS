@@ -107,7 +107,7 @@ You may simply clone this repository and run each notebook to reproduce the resu
 
 # References
 
-Code for training the U-net is taken from the [fastMRI repository](https://github.com/facebookresearch/fastMRI/tree/master/models/unet). <br>
+Code for training the U-net and VarNet is taken from the [fastMRI repository](https://github.com/facebookresearch/fastMRI/tree/master/models/unet). <br>
 
 Code for Deep Decoder is taken from [deep_decoder](https://github.com/reinhardh/supplement_deep_decoder).
 
