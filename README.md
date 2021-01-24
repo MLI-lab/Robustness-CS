@@ -34,13 +34,13 @@ In order to study multiple notions of robustness, the considered problem in the 
 
 ### List of contents
 
-* [Setup and installation](#Setup-and-installation) <br>
+* [Setup and installation](#Setup-and-installation) 
 
-* [Dataset](#Dataset) <br>
+* [Dataset](#Dataset) 
 
-* [Running the code](#Running-the-code) <br>
+* [Running the code](#Running-the-code) 
 
-* [References](#References) <br>
+* [References](#References) 
 
 * [License](#License)
 ***
@@ -102,7 +102,7 @@ A subset of fastMRI which contains real-world. We took the annotations from [fas
 # Running the code
 
 You may simply clone this repository and run each notebook to reproduce the results. 
-**Note.** that you need to download the [FastMRI](https://fastmri.org/dataset) dataset and change the **data path** (when loading the measurements) in each notebook accordingly, provided that you intend to run the code for MRI data (for MRI data, all of our experiments are performed on the validation sets--either single-coil or multi-coil).
+**Note.** that you need to download the necessary datasets according to the experiment you intend to run.
 
 
 # References
