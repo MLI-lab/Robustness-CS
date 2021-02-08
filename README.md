@@ -1,4 +1,4 @@
-# Robustness_of_deep_learning_based_compressive_sensing
+# Robustness of deep-learning-based compressive sensing
 
 <p align="center"><img src="./figures/robustness_.jpeg" width="650" height="450"></p>
 
