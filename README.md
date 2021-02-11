@@ -1,6 +1,6 @@
 # Robustness of deep-learning-based compressive sensing
 
-<p align="center"><img src="./figures/_robustness_.PNG" width="650" height="350"></p>
+<p align="center"><img src="./figures/_robustness_.PNG" width="650" height="325"></p>
 
 
 This repository provides code for reproducing the results in the paper:
