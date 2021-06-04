@@ -71,7 +71,7 @@ To reproduce the results by running each of the jupyter notebooks, the following
 		pip install scikit-image
 		pip install runstats
 		pip install pytorch_msssim
-		pip install pytorch-lightning
+		pip install pytorch-lightning==0.7.5
 		pip install test-tube
 		pip install Pillow
 
@@ -81,7 +81,7 @@ Install bart toolbox by following the instructions on their [home page](https://
 
 Install PyTorch Wavelets by following [these instructions](https://pytorch-wavelets.readthedocs.io/en/latest/readme.html#installation).
 
-**Note.** After installing pytorch lightning, if you run into a 'state-dict' error for VarNet, you might need to replace parsing.py in /opt/conda/lib/python3.7/site-packages/pytorch_lightning/utilities/parsing.py from [here](https://github.com/PyTorchLightning/PyTorch-Lightning/blob/0.8.1/pytorch_lightning/utilities/parsing.py#L96-L128). This is due to the version mismatch in their recent release (1.1.2).
+**Note.** After installing pytorch lightning, if you run into a 'state-dict' error for VarNet, you might need to replace parsing.py in /opt/conda/lib/python3.7/site-packages/pytorch_lightning/utilities/parsing.py from [here](https://github.com/PyTorchLightning/PyTorch-Lightning/blob/0.8.1/pytorch_lightning/utilities/parsing.py#L96-L128). This is due to the version mismatch in their recent release (0.7.5).
 
 
 # Datasets
