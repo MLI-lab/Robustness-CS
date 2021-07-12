@@ -40,6 +40,8 @@ In order to study multiple notions of robustness, the considered problem in the 
 
 * [References](#References) 
 
+* [Citation](#Citation)
+
 * [License](#License)
 ***
 
@@ -109,6 +111,17 @@ Code for training the U-net and VarNet is taken from the [fastMRI repository](ht
 
 Code for Deep Decoder is taken from [deep_decoder](https://github.com/reinhardh/supplement_deep_decoder).
 
+
+# Citation
+
+If you use this repository, please cite the original paper:
+
+	@inproceedings{darestani2021measuring,
+	  title={Measuring Robustness in Deep Learning Based Compressive Sensing},
+	  author={Zalbagi Darestani, Mohammad and S. Chaudhari, Akshay and Heckel, Reinhard},
+	  booktitle={International Conference on Machine Learning (ICML)},
+	  year={2021}
+	}
 
 # License
 
